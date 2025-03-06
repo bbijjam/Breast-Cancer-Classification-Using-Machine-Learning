@@ -1,7 +1,5 @@
 # Breast-Cancer-Classification-Using-Machine-Learning
 
-![Breast Cancer AI](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Breast_Cancer_Awareness_Pink.svg/1024px-Breast_Cancer_Awareness_Pink.svg.png)  
-
 ## 📖 **Overview**  
 This project applies **machine learning** techniques to classify breast cancer cases as **malignant or benign** using various algorithms. The goal is to improve diagnostic accuracy and provide insights into model performance across key evaluation metrics.  
 
